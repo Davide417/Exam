@@ -2,8 +2,11 @@
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+		Calcolatrice calc = new Calcolatrice();
+		calc.intestazione();
+		calc.presentazione();
+		calc.operazioni();
+		System.exit(0);
+		}
 
 }

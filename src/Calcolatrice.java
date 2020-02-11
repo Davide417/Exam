@@ -5,7 +5,7 @@ public void intestazione() {
 System.out.println("+--------------------------+");
 System.out.println("| CALCOLATRICE |");
 System.out.println("+--------------------------+");
-System.out.println("***Realizzato da xxx***\n");
+System.out.println("***Realizzato da Davide Verardo\n");
 }
 
 public void presentazione() {
